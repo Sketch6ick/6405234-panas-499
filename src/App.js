@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div style={{ padding: '20px' }}>
-      <h1>6405234 ปาณัสม์ บัวเคล้า Shoes Store</h1>
+      <h1>6405234ปาณัสม์ บัวเคล้า</h1>
       <input
         type="text"
         placeholder="ค้นหารองเท้า..."
